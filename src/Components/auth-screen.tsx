@@ -115,7 +115,7 @@ export function AuthButton({
       accessibilityRole="button"
     >
       <LinearGradient
-        colors={[BLUE, MINT]}
+        colors={[CYAN, CYAN]}
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 0 }}
         style={styles.button}
